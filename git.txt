@@ -6,3 +6,4 @@ unicorn
 hi buddy
 Rainbow and unicorn
 pink
+new line added
