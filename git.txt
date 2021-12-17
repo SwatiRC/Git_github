@@ -11,6 +11,3 @@ yellow
 red
 #$+
 =======
-new line added
-remote added
-added files
